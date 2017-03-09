@@ -1,0 +1,6 @@
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS4\autosink\bin\Debug\autosink.exe.config
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS4\autosink\obj\Debug\autosink.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS4\autosink\bin\Debug\autosink.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS4\autosink\bin\Debug\autosink.pdb
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS4\autosink\obj\Debug\autosink.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS4\autosink\obj\Debug\autosink.pdb
