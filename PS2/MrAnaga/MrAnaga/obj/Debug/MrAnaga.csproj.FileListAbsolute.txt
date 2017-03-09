@@ -1,0 +1,3 @@
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS2\MrAnaga\RyanWelling\bin\Debug\RyanWelling.exe.config
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS2\MrAnaga\RyanWelling\obj\Debug\RyanWelling.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS2\MrAnaga\RyanWelling\obj\Debug\RyanWelling.pdb
