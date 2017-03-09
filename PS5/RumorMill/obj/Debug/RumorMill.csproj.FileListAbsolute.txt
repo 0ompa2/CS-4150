@@ -1,0 +1,6 @@
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS5\RumorMill\bin\Debug\RumorMill.exe.config
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS5\RumorMill\bin\Debug\RumorMill.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS5\RumorMill\bin\Debug\RumorMill.pdb
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS5\RumorMill\obj\Debug\RumorMill.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS5\RumorMill\obj\Debug\RumorMill.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS5\RumorMill\obj\Debug\RumorMill.pdb
