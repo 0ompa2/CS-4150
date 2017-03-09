@@ -1,0 +1,6 @@
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS6\GetShorty\bin\Debug\GetShorty.exe.config
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS6\GetShorty\obj\Debug\GetShorty.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS6\GetShorty\bin\Debug\GetShorty.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS6\GetShorty\bin\Debug\GetShorty.pdb
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS6\GetShorty\obj\Debug\GetShorty.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS6\GetShorty\obj\Debug\GetShorty.pdb
