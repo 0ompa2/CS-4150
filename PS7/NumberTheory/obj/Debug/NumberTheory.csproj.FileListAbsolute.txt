@@ -1,0 +1,6 @@
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS7\NumberTheory\bin\Debug\NumberTheory.exe.config
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS7\NumberTheory\bin\Debug\NumberTheory.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS7\NumberTheory\bin\Debug\NumberTheory.pdb
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS7\NumberTheory\obj\Debug\NumberTheory.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS7\NumberTheory\obj\Debug\NumberTheory.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS7\NumberTheory\obj\Debug\NumberTheory.pdb
