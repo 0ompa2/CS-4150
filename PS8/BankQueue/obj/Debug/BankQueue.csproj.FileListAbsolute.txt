@@ -1,0 +1,6 @@
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS8\BankQueue\bin\Debug\BankQueue.exe.config
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS8\BankQueue\bin\Debug\BankQueue.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS8\BankQueue\bin\Debug\BankQueue.pdb
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS8\BankQueue\obj\Debug\BankQueue.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS8\BankQueue\obj\Debug\BankQueue.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS8\BankQueue\obj\Debug\BankQueue.pdb
