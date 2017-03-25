@@ -3,14 +3,18 @@ Homework for Univ. of Utah Spring 2017
 
 These solutions are for problems found on www.kattis.com, both public problems, and private problems unique to University of Utah course. 
 
-Ceiling Function: https://open.kattis.com/problems/ceiling
+PS1 - Ceiling Function: https://open.kattis.com/problems/ceiling
 
-Mr. Anaga: Private problem 
+PS2 - Mr. Anaga: Private problem 
 
-Galaxy Quest: Private problem
+PS3 - Galaxy Quest: Private problem
 
-Autosink: Private problem
+PS4 - Autosink: Private problem
 
-Rumor Mill: Private problem
+PS5 - Rumor Mill: Private problem
 
-Get Shorty: https://open.kattis.com/problems/getshorty
+PS6 - Get Shorty: https://open.kattis.com/problems/getshorty
+
+PS7 - Number Theory: Private problem
+
+PS8 - Bank Queue: https://open.kattis.com/problems/bank
