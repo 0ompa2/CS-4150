@@ -1,0 +1,6 @@
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS10\NarrowArtGallery\bin\Debug\NarrowArtGallery.exe.config
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS10\NarrowArtGallery\bin\Debug\NarrowArtGallery.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS10\NarrowArtGallery\bin\Debug\NarrowArtGallery.pdb
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS10\NarrowArtGallery\obj\Debug\NarrowArtGallery.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS10\NarrowArtGallery\obj\Debug\NarrowArtGallery.exe
+C:\Users\Ryan\Dropbox\CS4150\Assignments\PS10\NarrowArtGallery\obj\Debug\NarrowArtGallery.pdb
