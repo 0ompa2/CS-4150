@@ -18,3 +18,7 @@ PS6 - Get Shorty: https://open.kattis.com/problems/getshorty
 PS7 - Number Theory: Private problem
 
 PS8 - Bank Queue: https://open.kattis.com/problems/bank
+
+PS9 - Under The Rainbow: Private problem (Nearly identical to http://stackoverflow.com/questions/4950956/)
+
+PS10 - Narrow Art Gallery: https://open.kattis.com/problems/narrowartgallery
